@@ -1,0 +1,40 @@
+.mytitle {
+  position: fixed;
+  background-color: white;
+  border: 2px solid black;
+}
+
+.bird {
+  top: 400 px;
+  right: 0px;
+  position: absolute;
+}
+
+.mytitleindex2 {
+  background-color: honeydew;
+  border: 4px solid black;
+  padding: 20px;
+}
+
+.imagebox {
+  background-color: antiquewhite;
+  border: 3px solid black;
+}
+
+.imageright {
+  width: 25%;
+  margin-left: 350px;
+  margin-top: -30px;
+}
+
+.imageright2 {
+  width: 10%;
+  margin-left: 350px;
+  margin-top: -30px;
+}
+
+.footer {
+  position: align;
+  background-color: beige;
+  padding: 10px;
+}
